@@ -9,20 +9,25 @@ Most of my work focuses on clarity, performance, and measurable business impact.
 
 ##  Projects
 
-### Customer Churn Prediction
+**Customer Churn Prediction**
+
 Built a logistic regression model using 7,000+ telecom customers to identify retention risks and revenue exposure.  
 Delivered Python analysis + Tableau dashboards to surface actionable drivers.
 
-### Marketing Performance Dashboards
+**Marketing Performance Dashboards**
+
 Designed Tableau and Power BI dashboards tracking funnel metrics, CAC, LTV, ROI, and campaign efficiency for stakeholder reporting and budget allocation.
 
-### Business Analytics with Python
+**Business Analytics with Python**
+
 Applied regression, segmentation (RFM/GMM), causal impact testing, and experimentation frameworks to solve real marketing problems.
 
-### Consulting Projects
+**Consulting Projects**
+
 Partnered with small and medium businesses to improve lead generation, SEO, paid ads performance, and reporting automation through structured analytics systems.
 
-### Certifications & Coursework
+**Certifications & Coursework**
+
 IBM Data Science + Data Analytics Professional Certificates with hands-on SQL, Python, ML, and visualization projects.
 
 ---
