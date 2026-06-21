@@ -24,6 +24,9 @@ MS in Marketing Analytics, CSU East Bay. I build end-to-end analytics systems �
 
 ## Featured Projects
 
+**[NorCal SBDC — Marketing Consulting](https://github.com/CMunoz-28/NorCal-SBDC-Marketing-Consulting)**  
+Real-world marketing advisory work for 6 small business clients — strategies, SEO audits, CRM onboarding (Zoho), social media plans, content calendars, and reusable consulting frameworks.
+
 **[MS in Marketing Analytics — CSU East Bay](https://github.com/CMunoz-28/Marketing-Analytics-CSUEastBay)**  
 Customer churn modeling, campaign performance analysis, segmentation, and executive dashboards. Full end-to-end analyst workflow across 8 courses.
 
