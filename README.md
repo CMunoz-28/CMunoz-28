@@ -5,7 +5,7 @@
 MS in Marketing Analytics, CSU East Bay. I build end-to-end analytics systems — from raw data through models, dashboards, and business decisions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--m27-blue?logo=linkedin)](https://www.linkedin.com/in/carlos-m27/)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/cmunozvizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/cmunoz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-carlosamunoz.com-black)](https://carlosamunoz.com)
 
 ---
