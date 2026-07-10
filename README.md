@@ -46,7 +46,6 @@ End-to-end data analysis across Python, SQL, Excel, and IBM Cognos, with an appl
 
 ## Currently Working On
 
-- Supporting marketing and growth execution for **[Seeker](https://seekerscore.com)**, an AI career intelligence platform that ranks resumes against 160,000+ live job postings and returns a market percentile, best-fit roles, and skill gap analysis. Free, privacy-first, no signup required.
 - Expanding Tableau public dashboards
 - Building full-stack analytics reporting pipelines
 
