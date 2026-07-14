@@ -46,8 +46,9 @@ End-to-end data analysis across Python, SQL, Excel, and IBM Cognos, with an appl
 
 ## Currently Working On
 
-- Expanding Tableau public dashboards
-- Building full-stack analytics reporting pipelines
+- Expanding Tableau public dashboards across client and academic projects
+- Growing NorCal SBDC consulting practice across 13+ small business clients
+- Building marketing analytics frameworks for small business strategy and performance reporting
 
 ---
 
