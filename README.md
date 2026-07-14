@@ -2,10 +2,10 @@
 
 **Marketing Analytics · Data Science · Growth Strategy**
 
-MS in Marketing Analytics, CSU East Bay. I build end-to-end analytics systems, from raw data through models, dashboards, and business decisions.
+MS in Marketing Analytics, CSU East Bay. I help small businesses and brands turn data into decisions — through predictive models, executive dashboards, and marketing strategy built on real client work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--m27-blue?logo=linkedin)](https://www.linkedin.com/in/carlos-m27/)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/cmunoz)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/cmunoz/vizzes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-carlosamunoz.com-black)](https://carlosamunoz.com)
 
 ---
@@ -18,6 +18,7 @@ MS in Marketing Analytics, CSU East Bay. I build end-to-end analytics systems, f
 | Libraries | Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn |
 | Visualization | Tableau · Power BI · Plotly |
 | Analytics | A/B Testing · Regression · Segmentation · Causal Inference · Forecasting |
+| CRM | Neoserra · Zoho CRM · HubSpot |
 | Other | Excel · IBM Cognos · Figma · WordPress |
 
 ---
@@ -53,4 +54,4 @@ End-to-end data analysis across Python, SQL, Excel, and IBM Cognos, with an appl
 ---
 
 *Open to marketing analytics, data analyst, and growth analytics roles.*  
-📧 mnzcrls15@gmail.com
+🌐 [carlosamunoz.com/contact-me](https://www.carlosamunoz.com/contact-me)
