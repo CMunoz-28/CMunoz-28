@@ -19,7 +19,9 @@ MS in Marketing Analytics, CSU East Bay. I help small businesses and brands turn
 | Visualization | Tableau · Power BI · Plotly |
 | Analytics | A/B Testing · Regression · Segmentation · Causal Inference · Forecasting |
 | CRM | Neoserra · Zoho CRM · HubSpot |
-| Other | Excel · IBM Cognos · Figma · WordPress |
+| SEO & Research | SEMrush · Screaming Frog · Google Search Console · Moz · Google Ads |
+| Marketing & Content | MailChimp · Hootsuite · Canva · Figma · Google Tag Manager |
+| Other | Excel · IBM Cognos · WordPress |
 
 ---
 
