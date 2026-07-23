@@ -15,13 +15,14 @@ MS in Marketing Analytics, CSU East Bay. I help small businesses and brands turn
 | Category | Tools |
 |---|---|
 | Languages | Python · SQL |
-| Libraries | Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn |
-| Visualization | Tableau · Power BI · Plotly |
-| Analytics | A/B Testing · Regression · Segmentation · Causal Inference · Forecasting |
-| CRM | Neoserra · Zoho CRM · HubSpot |
-| SEO & Research | SEMrush · Screaming Frog · Google Search Console · Moz · Google Ads |
-| Marketing & Content | MailChimp · Hootsuite · Canva · Figma · Google Tag Manager |
-| Other | Excel · IBM Cognos · WordPress |
+| Libraries & Environments | Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · SPSS · JupyterLab · Google Colab |
+| Visualization | Tableau · Looker Studio · Power BI · Plotly · Cognos Analytics |
+| Analytics & Research | A/B Testing · Regression · Segmentation · Causal Inference · Forecasting · GA4 · PostHog · Qualtrics |
+| CRM | Neoserra · Zoho CRM · HubSpot · Salesforce |
+| SEO & Paid Media | SEMrush · Screaming Frog · Google Search Console · Moz · Google Ads · Google Trends |
+| Marketing & Content | MailChimp · Hootsuite · Adobe Creative Suite · Meta Creative Studio · Canva · Figma · Google Tag Manager |
+| Productivity & Collab | Microsoft Office · Google Workspace · Excel · Asana · Slack · Teams |
+| Other | WordPress |
 
 ---
 
