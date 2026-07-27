@@ -28,22 +28,25 @@ MS in Marketing Analytics, CSU East Bay. I help small businesses and brands turn
 
 ## Featured Projects
 
-**[NorCal SBDC: Marketing Consulting](https://github.com/CMunoz-28/NorCal-SBDC-Marketing-Consulting)**  
+**[Analytics Projects](https://github.com/CMunoz-28/analytics-projects)**
+Personal analytics projects covering campaign performance, customer segmentation, conversion rate analysis, site traffic forecasting, and SQL — built with Python, Pandas, Scikit-learn, Prophet, and Google Colab.
+
+**[NorCal SBDC: Marketing Consulting](https://github.com/CMunoz-28/NorCal-SBDC-Marketing-Consulting)**
 Real-world marketing advisory work for 13+ small business clients: strategies, SEO audits, CRM onboarding (Zoho), social media plans, content calendars, and reusable consulting frameworks.
 
-**[MS in Marketing Analytics: CSU East Bay](https://github.com/CMunoz-28/Marketing-Analytics-CSUEastBay)**  
+**[MS in Marketing Analytics: CSU East Bay](https://github.com/CMunoz-28/Marketing-Analytics-CSUEastBay)**
 Customer churn modeling, campaign performance analysis, segmentation, and executive dashboards. Full end-to-end analyst workflow across 8 courses.
 
-**[Business Analytics with Python](https://github.com/CMunoz-28/Business-Data-Analytics-Python)**  
+**[Business Analytics with Python](https://github.com/CMunoz-28/Business-Data-Analytics-Python)**
 RFM segmentation, Google Causal Impact testing, Facebook Prophet forecasting, logistic regression, and random forest models, applied to real business problems.
 
-**[Digital Strategy Case Study: EB Cosmetic & Reconstructive Surgery](https://github.com/CMunoz-28/case-study-eb-cosmetic-reconstructive-surgery)**  
+**[Digital Strategy Case Study: EB Cosmetic & Reconstructive Surgery](https://github.com/CMunoz-28/case-study-eb-cosmetic-reconstructive-surgery)**
 Brand repositioning, technical SEO audit, UX wireframing, and HIPAA-compliant lead gen planning for a medical practice.
 
-**[IBM Data Science Professional Certificate](https://github.com/CMunoz-28/IBM-Data-Science-Professional-Certificate)**  
+**[IBM Data Science Professional Certificate](https://github.com/CMunoz-28/IBM-Data-Science-Professional-Certificate)**
 12-course program covering data collection, wrangling, ML (Scikit-learn), visualization, and a full SpaceX launch prediction capstone.
 
-**[IBM Data Analytics Professional Certificate](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate)**  
+**[IBM Data Analytics Professional Certificate](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate)**
 End-to-end data analysis across Python, SQL, Excel, and IBM Cognos, with an applied capstone project.
 
 ---
@@ -56,5 +59,5 @@ End-to-end data analysis across Python, SQL, Excel, and IBM Cognos, with an appl
 
 ---
 
-*Open to marketing analytics, data analyst, and growth analytics roles.*  
+*Open to marketing analytics, data analyst, and growth analytics roles.*
 🌐 [carlosamunoz.com/contact-me](https://www.carlosamunoz.com/contact-me)
