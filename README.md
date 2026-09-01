@@ -32,7 +32,7 @@ MS in Marketing Analytics, CSU East Bay. I help small businesses and brands turn
 Personal analytics projects covering campaign performance, customer segmentation, conversion rate analysis, site traffic forecasting, and SQL — built with Python, Pandas, Scikit-learn, Prophet, and Google Colab.
 
 **[NorCal SBDC: Marketing Consulting](https://github.com/CMunoz-28/NorCal-SBDC-Marketing-Consulting)**
-Real-world marketing advisory work for 13+ small business clients: strategies, SEO audits, CRM onboarding (Zoho), social media plans, content calendars, and reusable consulting frameworks.
+Real-world marketing advisory work for 15+ small business clients across 8 industries: SEO audits, paid media analysis, RFM segmentation, social media strategies, AI-assisted content workflows, and 30+ professional deliverables.
 
 **[MS in Marketing Analytics: CSU East Bay](https://github.com/CMunoz-28/Marketing-Analytics-CSUEastBay)**
 Customer churn modeling, campaign performance analysis, segmentation, and executive dashboards. Full end-to-end analyst workflow across 8 courses.
@@ -54,7 +54,7 @@ End-to-end data analysis across Python, SQL, Excel, and IBM Cognos, with an appl
 ## Currently Working On
 
 - Expanding Tableau public dashboards across client and academic projects
-- Growing NorCal SBDC consulting practice across 13+ small business clients
+- Active NorCal SBDC consulting practice — 15+ clients, 30+ deliverables, 8 industries
 - Building marketing analytics frameworks for small business strategy and performance reporting
 
 ---
